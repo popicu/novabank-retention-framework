@@ -8,7 +8,7 @@ This repository contains the analytical pipeline, baseline vs. ensemble predicti
 
 NovaBank's core operating margins are under pressure from deposit run-off and escalating telemarketing costs. Legacy mass outreach contacted 100% of candidate profiles (41,188 contacts), yielding a sluggish 11.27% conversion rate at an unsustainable operational expense of €617,820.
 
-**Strategic Recommendation:** Deploy an algorithmic decision rule targeting the **top 20% highest-propensity customers ($P \ge 0.18$)** using our calibrated Gradient Boosting decision model.
+**Strategic Recommendation:** Deploy an algorithmic decision rule targeting the **top 20% highest-propensity customers  using our calibrated Gradient Boosting decision model.
 
 ### Key Financial & Operational Results
 * **Direct Cost Reduction:** **-80.0%** (€494,301 direct operational expense saved)
